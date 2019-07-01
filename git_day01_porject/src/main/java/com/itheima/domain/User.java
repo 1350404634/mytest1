@@ -1,6 +1,10 @@
 package com.itheima.domain;
 
 public class User {
+
+    /*
+    * 你好
+    * */
     private String name;
     private String password;
 
